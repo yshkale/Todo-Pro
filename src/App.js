@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "./Welcome.css";
 import "./App.css";
 import "./Querries.css";
